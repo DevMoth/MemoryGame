@@ -1,0 +1,4 @@
+﻿  Memory_game.cpp
+e:\c++\memory_game\memory_game\memory_game.cpp(12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+e:\c++\memory_game\memory_game\memory_game.cpp(13): warning C4101: n1: неиспользованная локальная переменная
+  Memory_game.vcxproj -> E:\C++\Memory_game\Debug\Memory_game.exe
